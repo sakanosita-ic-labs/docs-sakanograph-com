@@ -1,4 +1,4 @@
-# Initial page
+# Documentation
 
 ## Getting Super Powers
 
