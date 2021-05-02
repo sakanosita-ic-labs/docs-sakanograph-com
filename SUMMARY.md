@@ -5,5 +5,5 @@
 
 ## GROUP
 
-* [API test](group/untitled.md)
+* [API](group/untitled.md)
 
